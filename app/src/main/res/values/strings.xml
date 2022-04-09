@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">talk app</string>
+    <string name="s_ttsactive">Introdusca un texto</string>
+    <string name="s_ttsactivet">Servicio disponible</string>
+    <string name="s_sttdisable">El servicio no esta disponible!</string>
+    <string name="hint_message">Text</string>
+    <string name="btn_play">Speak</string>
+</resources>
